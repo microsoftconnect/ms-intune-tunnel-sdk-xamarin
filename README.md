@@ -16,6 +16,6 @@ Sample App:
 A Xamarin.iOS sample application is available at [ms-intune-tunnel-iOS-sampleapps](https://github.com/msintuneappsdk/ms-intune-tunnel-iOS-sampleapps).
 
 Supported versions:
-|Xamarin Bindings Version | Supported iOS Versions  | Supported Xcode Version | Support Scope |
+|Xamarin Bindings Version | Supported iOS Versions  | Supported Visual Studio Version | Support Scope |
 | ----------------------- | ---------------------------- | -----------------------------  | ----------------- |                         
-| 1.0.8+                  | 15.0+                | 14+                        | Main release branch - supports all feature work and bug fixes |
+| 1.0.8+                  | 15.0+                | 17.3+                        | Main release branch - supports all feature work and bug fixes |
