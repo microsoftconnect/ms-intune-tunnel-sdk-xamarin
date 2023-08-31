@@ -29,10 +29,10 @@ A clear and concise description of what you expected to happen.
  - Device: [e.g. iPhone6]
  - OS: [e.g. iOS8.1]
 
-**Intune App SDK Xamarin Bindings (please complete the following information):**
+**Microsoft Tunnel SDK Xamarin Bindings (please complete the following information):**
 - What version of the Xamarin Bindings are you using? Are you using the latest version?
-- For errors during build, does the app build without Intune SDK Xamarin Bindings integration?
-- For errors post build, does the app launch without being Intune SDK Bindings integrated?
+- For errors during build, does the app build without Microsoft Tunnel SDK Xamarin Bindings integration?
+- For errors post build, does the app launch without being Microsoft Tunnel SDK Bindings integrated?
 - Who is the customer?
 - Do you see a trend with it only being reproduced on a specific device?
 
