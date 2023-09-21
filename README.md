@@ -2,7 +2,7 @@
 
 Version [1.0.8](https://github.com/msintuneappsdk/ms-intune-tunnel-sdk-xamarin/releases/tag/1.0.8)
 
-Microsoft Intune Tunnel App SDK Xamarin Bindings to enable the apps to connect to VPN protected corporate resources on unenrolled devices with iOS and Android Xamarin apps.
+Microsoft Intune Tunnel App SDK Xamarin Bindings to enable the apps to connect to VPN protected corporate resources on unenrolled devices with iOS Xamarin apps.
 
 See [release notes](https://github.com/msintuneappsdk/ms-intune-tunnel-sdk-xamarin/releases) for more information. GitHub users can recieve email notifications for new releases to this repo by clicking on **Releases only** from the "Watch" drop-down menu in the upper right-hand corner.
 
