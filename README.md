@@ -1,6 +1,6 @@
 # Microsoft Tunnel for MAM App SDK Xamarin Bindings
 
-Version [1.0.11](https://github.com/msintuneappsdk/ms-intune-tunnel-sdk-xamarin/releases/tag/1.0.11)
+Version [1.0.12](https://github.com/msintuneappsdk/ms-intune-tunnel-sdk-xamarin/releases/tag/1.0.12)
 
 Microsoft Intune Tunnel App SDK Xamarin Bindings to enable the apps to connect to VPN protected corporate resources on unenrolled devices with iOS Xamarin apps.
 
